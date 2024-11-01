@@ -8,7 +8,6 @@ import xgboost_modules
 import data_generator
 import semopy
 from sklearn.linear_model import LinearRegression
-# import data_generator_2
 
 # generate noise
 def generate_noise(addedVar, noise_mean, noise_sigma, noiseTF):
