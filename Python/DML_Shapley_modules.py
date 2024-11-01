@@ -4,7 +4,7 @@ import multiprocess as mp
 import datagen_modules
 import DML_modules
 # import data_generator_2
-import data_generator_1
+import data_generator
 # import run_Experiment
 import pandas as pd
 import matplotlib.pyplot as plt
