@@ -5,7 +5,7 @@ import xgboost
 
 import datagen_modules
 import xgboost_modules
-import data_generator_1
+import data_generator
 import semopy
 from sklearn.linear_model import LinearRegression
 # import data_generator_2
