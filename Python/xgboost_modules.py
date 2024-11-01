@@ -4,7 +4,7 @@ import pandas as pd
 import sklearn
 import xgboost
 import random
-import data_generator_1
+import data_generator
 import datagen_modules
 from sklearn import preprocessing
 from sklearn.metrics import mean_squared_error
